@@ -31,24 +31,26 @@ sejukin/
 ```bash
 git clone https://github.com/namauser/sejukin.git
 cd sejukin
+```
 
 ### 2. Buat dan Aktifkan Virtual Environment
 
 ```bash
 python3 -m venv myvenv
 source myvenv/bin/activate
+```
 
 ### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 4.Jalankan Aplikasi
 
 ```bash
 streamlit run app.py
-
----
+```
 
 ## 🧠 Tentang Model
 
