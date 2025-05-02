@@ -88,5 +88,6 @@ Setelah pengguna memasukkan data dan menekan tombol prediksi, aplikasi akan meng
 
 - **Prediksi status kualitas udara**, seperti: `Good`, `Moderate`, `Unhealthy`, dll.
 - **Visualisasi peta negara** yang dipilih, dengan warna yang merepresentasikan nilai AQI menggunakan skala warna (semakin merah, semakin tidak sehat).
+- **Akurasi 97%**.
 
 
